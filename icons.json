@@ -1,6 +1,7 @@
 {"name": "自用图标库",
  "description": "收集互联网公开图标文件，版权属于原作者和商标持有人；收录的图标并未取得所有者支持，若有侵权请及时联系本人删除。", 
  "icons": [
+    {"name":"FilmiX", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/FilmiX.png"},
     {"name":"Naiyou", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Naiyou.png"},
     {"name":"IMM", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/IMM.png"},
     {"name":"Kuromis", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Kuromis.png"},
@@ -29,7 +30,7 @@
     {"name":"CT1", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/CT1.png"}, 
     {"name":"Mojie", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Mojie2.png"},
     {"name":"Flyingbird", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Flyingbird.png"},
-    {"name":"Renzheyun", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Renzheyun.png"},
+    {"name":"Renzheyun", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Renzheyun.png"}，
     {"name":"Xianyu13", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Xianyu13.png"},
     {"name":"BYG", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/BYG.png"},
     {"name":"Titan1", "url":"https://raw.githubusercontent.com/Charlesliu023/icons/main/Titan1.png"},
